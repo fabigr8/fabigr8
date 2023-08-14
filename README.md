@@ -2,6 +2,8 @@
 
 <!--
 **fabigr8/fabigr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact
+
 -->
 
 # 💫 About Me:
@@ -10,7 +12,7 @@
 - 🤝 I’m looking for help with robustness analysis of algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/fabian-gwinner-822595180
 - 🔗 Find out more about me here: https://fabigr8.github.io/
-- ⚡ Fun fact
+
 
 
 # 💻 Tech Stack:
