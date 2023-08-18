@@ -10,8 +10,8 @@
 - 🔭 I’m currently working on different Machine Learning and XAI topics
 - 👯 I’m looking to collaborate on great ML / AI projects, especially in the fields of:
   - AI for image recognition and segmentation
-  - AI for good
   - Medical or Biomedical AI
+  - AI for good
 - 🤝 I’m looking for help with robustness analysis of algorithms
 - 📫 How to reach me: https://www.linkedin.com/in/fabian-gwinner-822595180
 - 🔗 Find out more about me here: https://fabigr8.github.io/
