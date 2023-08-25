@@ -1,4 +1,4 @@
-### Hi there 👋 I am Fabian 
+## Hi there 👋 I am Fabian 
 
 <!--
 **fabigr8/fabigr8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 
 -->
 
-# 🚀 About Me:
+### 🚀  Me but in short ;):
 - 🔬 I’m currently working on different Machine Learning and XAI topics
 - 🌱 I’m looking to collaborate on Projects in the fields of:
   - AI for image recognition and segmentation
@@ -14,11 +14,12 @@
   - AI for good
   - XAI methods
 - 📫 How to reach me: https://www.linkedin.com/in/fabian-gwinner-822595180
-- 🔗 Find out more about me here: https://fabigr8.github.io/
+
+🔗 Find out more about me here: https://fabigr8.github.io/
 
 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
