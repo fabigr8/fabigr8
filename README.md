@@ -8,9 +8,9 @@
 
 ### 🚀  Me but in short ;):
 - 🔬 I’m currently working on different Machine Learning and XAI topics
-- 🌱 I’m looking to collaborate on Projects in the fields of:
+- 🌱 I’m looking to collaborate on projects in the fields of:
   - AI for image recognition and segmentation
-  - Medical or Biomedical AI
+  - Medical or biomedical AI
   - AI for good
   - XAI methods
 - 📫 How to reach me: https://www.linkedin.com/in/fabian-gwinner-822595180
